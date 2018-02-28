@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Proverbs for Daily Living</title>
+  </head>
+  <body>
+    <h1>Proverbs for Daily Living</h1>
+    {% for proverb in proverbs %}
+  <p>Date: {{ proverb.date }}</p>
+  <p>Proverb: {{ proverb.proverb}}</p>
+  <hr />
+{% endfor %}
+    <hr />
+    <footer>All Rights Reserved, Chanten 2018</footer>
+  </body>
+ </html>
