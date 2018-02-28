@@ -1,0 +1,3 @@
+#<b>Book Introduction</b><br/><br/>
+
+"The helpful and amusing proverbs gathered in this book come from both ancient and modern times, and from many languages. Human experience has tested this wisdom in different ages, various nations, and under all conditions. Since as human beings we are today unchanged from the past, we will find the proverbs of our forefathers as wise and helpful as ever in meeting the problems of daily living. Even among the humorous sayings each has its own nugget of serious truth. These proverbs are all arranged in almanac-fashion, one for each day of the year, and we hope that you will enjoy them for many years to come."
