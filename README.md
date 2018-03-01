@@ -18,7 +18,7 @@ Trello: https://trello.com/b/bAKfRrG9/proverbfordailyliving<br/><br/>
 <ul>
 <li><b>About:</b> what the app is for and what I hope for</li><br/>
   <li><b>Index:</b> See the daily proverb. Add a proverb with textarea and submit button</li><br/>
-  <li><b>Prayer List</b>: a place to add people to the prayer list ~and also sign up to be a prayerperson~</li><br/>
+  <li><b>Prayer List</b>: a place to add people to the prayer list ~~and also sign up to be a prayerperson~~</li><br/>
   <li><b>Tenets:</b> a read-only page for the sayings I'm believing in</li><br/>
   <li><b>Profile:</b> Create a profile. edit profile, sign up to be a prayerperson, edit proverbs that the user has entered,            and delete profile.</li><br/>
   <li><b>User Proverbs:</b> Displays the proverbs that users have entered.</li>
