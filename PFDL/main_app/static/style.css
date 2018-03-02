@@ -21,3 +21,11 @@ border: none;
 footer {
   color: #FFFFFF;
 }
+ul {
+  display: inline;
+  text-align: left;
+  color: #39383d;
+}
+.tops {
+  padding: -140px;
+}

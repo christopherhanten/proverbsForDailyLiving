@@ -5,8 +5,21 @@
 		<title>Proverbs for Daily Living</title>
 		<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
   </head>
-	<body>
-		<img src="static/content/images/pfdlLogo.png" alt="Proverber" width='800px' height="auto" />
+	<header class="head">
+      <div class="container">
+                <strong><nav>
+          <ul class="menu">
+            <li>Home</li>
+            <li>About</li>
+						<li>Tenets for Good Living</li>
+            <li>User Submitted Proverbs</li>
+						<li>Prayer List</li>
+          </ul>
+        </nav></strong>
+      </div>
+    </header>
+	<body class="tops">
+		<img src="static/content/images/pfdlLogo.png" alt="Proverber" width='800px' />
     <img src="static/content/images/IMG_2402.png" alt="Proverber" width='240px'/>
 	<hr />
    {% block content %}
