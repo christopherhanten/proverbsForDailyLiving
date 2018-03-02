@@ -1,3 +1,14 @@
 h1 {
-  color: red;
+  color: #FFFFFF;
+  text-align: center;
+  -webkit-text-stroke: .75px  #6b78ff;
+}
+body {
+  background-color: #9dfff1;
+  color: #6b78ff;
+  text-align: center;
+  width: auto;
+}
+.date {
+  color: #bfa5be;
 }
