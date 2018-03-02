@@ -1,28 +1,36 @@
+{% extends 'base.html' %}
 {% load staticfiles %}
-<!--add bootstrap3  -->
 <!DOCTYPE html>
 
 <html>
   <head>
-	<title>Proverbs for Daily Living</title>
-  <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
+
   </head>
   <body>
 
+  <br/><br/>
 
-    <h1>Proverbs for Daily Living</h1>
-    <img src=".static/content/images/IMG_2402.png" alt="Proverber"/>
-
-    <br/><br/><br/><br/><br/>
-
-    {% for proverb in proverbs %}
-    <!-- Show date and proverb for date -->
-    <p class="date">{{ proverb.date }}</p>
-    <p>{{proverb.proverb}}</p>
+{% block content %}
+{% for proverbs in proverbs %}
+    <p>{{ proverb.date }}</p>
+    <p>{{ proverb.proverb}}</p>
   <hr />
 {% endfor %}
-
+  <form action="post_url/" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="Submit" value="Submit"/>
+  </form>
+  {% for proverb in Proverbs %}
+      <p>date: {{ proverb.date }}</p>
+      <p>proverb: {{ proverb.proverb}}</p>
     <hr />
+  {% endfor %}
+
+{% endblock %}
+
+  <hr/>
     <footer>Man hold up, Chanten 2018</footer>
   </body>
  </html>

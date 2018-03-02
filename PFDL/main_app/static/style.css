@@ -1,14 +1,23 @@
 h1 {
-  color: #FFFFFF;
+  color: #9e161a;
   text-align: center;
-  -webkit-text-stroke: .75px  #6b78ff;
+  -webkit-text-stroke: .35px  #FFFFFF;
 }
 body {
-  background-color: #9dfff1;
-  color: #6b78ff;
+  background-color: #d7b99f;
+  color: #9e161a;
   text-align: center;
   width: auto;
 }
 .date {
-  color: #bfa5be;
+  color: #FFFFFF;
+}
+hr {
+height: 1px;
+color: #39383d;
+background-color: #39383d;
+border: none;
+}
+footer {
+  color: #FFFFFF;
 }

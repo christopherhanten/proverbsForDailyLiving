@@ -1,0 +1,19 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Proverbs for Daily Living</title>
+		<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
+  </head>
+	<body>
+		<img src="static/content/images/pfdlLogo.png" alt="Proverber" width='800px' height="auto" />
+    <img src="static/content/images/IMG_2402.png" alt="Proverber" width='240px'/>
+	<hr />
+   {% block content %}
+   {% endblock %}
+	<hr/>
+  <footer>Man Hold Up, Chanten 2018</footer>
+  <!-- <script <script src="{% static 'js/jquery.min.js' %}"></script>
+  <script src="{% static 'js/app.js' %}"></script> -->
+ </body>
+</html>
