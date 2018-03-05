@@ -40,7 +40,7 @@ Trello: https://trello.com/b/bAKfRrG9/proverbfordailyliving<br/><br/>
 I want "proverbs For Daily Living" to change language like every second or so.</br><br/>
 <b>New Features</b><br/><br/>
 
-Bruce Lee's burn your bad thoughts.<br/>
+<b>Bruce Lee's burn your bad thoughts.</b><br/>
 "I have a system of ridding my mind of negative thoughts. I visualize myself writing them down on a piece of paper. Then I imagine myself crumpling up the paper, lighting it on fire, and burning it to a crisp."
  — Bruce Lee<br/><br/>
 So I'd like to have a field where you enter a negative thought, it will have to be made clear that it won't be persisted, and upon submit, get some code that either makes it look like it's burning or, crumbles up.<br/><br/></li>
