@@ -77,19 +77,19 @@ I intend to build an app that displays:<br/>
 
 <b>Wireframes</b><br/><br/>
 /index<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_index.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_index.png)<br/><br/>
 /about<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_about.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_about.png)<br/><br/>
 /signin<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_signin.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_signin.png)<br/><br/>
 /editprofile<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_editprofile.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_editprofile.png)<br/><br/>
 /tenets<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_tenets.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_tenets.png)<br/><br/>
 /usernuggets<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_userNuggets.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_userNuggets.png)<br/><br/>
 /prayerlist<br/>
-![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/content/images/_prayerList.png)<br/><br/>
+![MP](https://github.com/christopherhanten/proverbsForDailyLiving/blob/master/PFDL/main_app/static/content/images/_prayerList.png)<br/><br/>
 
 
 <b> Entity Relationship Diagram</b><br/><br/>
