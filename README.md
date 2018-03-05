@@ -2,7 +2,7 @@
 Trello: https://trello.com/b/bAKfRrG9/proverbfordailyliving<br/><br/>
 
 <b>Color Palette</b><br/>
-_revist_
+
 |hex code|color|
 |---|---|
 |#73b092|Green|
