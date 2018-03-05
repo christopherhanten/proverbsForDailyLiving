@@ -1,17 +1,7 @@
 {% extends 'base.html' %}
 {% load staticfiles %}
-<!DOCTYPE html>
 
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
 
-  </head>
-  <body>
-
-  <br/><br/>
-
-{% block content %}
 {% for proverbs in proverbs %}
     <p>{{ proverb.date }}</p>
     <p>{{ proverb.proverb}}</p>
@@ -22,15 +12,8 @@
     {{ form.as_p }}
     <input type="Submit" value="Submit"/>
   </form>
-  {% for proverb in Proverbs %}
-      <p>date: {{ proverb.date }}</p>
-      <p>proverb: {{ proverb.proverb}}</p>
-    <hr />
-  {% endfor %}
 
-{% endblock %}
 
-  <hr/>
-    <footer>Man hold up, Chanten 2018</footer>
-  </body>
- </html>
+
+
+  
