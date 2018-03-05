@@ -4,13 +4,13 @@
 <html>
   <head>
     <title>Proverbs for Daily Living</title>
-    <<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
 
   </head>
   <body>
+{% block content %}
     <p> date:{{ proverb.date }}</p>
     <p> proverb:{{ proverb.proverb }}</p>
+{% endblock %}
   </body>
 </html>
