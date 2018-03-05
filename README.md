@@ -50,7 +50,7 @@ I'd like to add a section with my tenets of life:<br/>
   <li>Spread Joy; Stand Firm</li>
   <li>Look around not down</li>
   <li>Do what you do</li>
-  <li>Same ole G </li></li>
+  <li>Same ole G </li></li> 
 
 <br/>
   I want to make a 'prayer list' function. Basically, it's for someone to add someone to a prayer list, so that people who pray can pray for those people. I'd like to someday make this a module that churches can add to their own websites.<br/><br/>
