@@ -5,11 +5,11 @@ Trello: https://trello.com/b/bAKfRrG9/proverbfordailyliving<br/><br/>
 
 |hex code|color|
 |---|---|
-|#73b092|Green|
-|#ffdcfd|Light Pink|
-|#bfa5be|Grey Pink|
-|#9dfff1|Light Teal|
-|#6b78ff|Powder Blue|
+|#baa085|Light brown(the color of the old book pages|
+|#a31917|maroon(the color of the illustrations|
+|#000000|Black|
+|#FFFFFF|White|
+|#2ff6f2|Teal(for accents)|
 
 <br/>
 
