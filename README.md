@@ -7,10 +7,9 @@ Trello: https://trello.com/b/bAKfRrG9/proverbfordailyliving<br/><br/>
 |---|---|
 |#baa085|Light brown(the color of the old book pages)|
 |#a31917|maroon(the color of the illustrations)|
+|#2ff6f2|Teal(for accents)|
 |#000000|Black|
 |#FFFFFF|White|
-|#2ff6f2|Teal(for accents)|
-
 <br/>
 
 
